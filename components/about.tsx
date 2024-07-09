@@ -22,7 +22,7 @@ export default function About() {
       A <span className="font-medium">Redis certified Software Developer, Microsoft certified AI Engineer</span> {" "} and <span className="font-medium"> Data Scientist </span> with 2+ years of professional experience in optimizing microservices, web applications and 3+ years of project experience on building AI, Machine Learning, and Spring Boot applications.
       </p>
       <p className="mb-3">
-      I am a recent <span className="font-medium">computer science</span> graduate student with a GPA of 4.0 rom the University of South Florida (2022-2024).
+      I am a recent <span className="font-medium">computer science</span> graduate student with a GPA of 4.0 from the University of South Florida (2022-2024).
       </p>
       <p className="mb-3">
       During my tenure as a <span className="font-medium">Software Engineer</span> at <span className="font-medium">Cognizant</span> I've contributed to a major US pharmaceutical company's software development, reducing defects by 30% and 
