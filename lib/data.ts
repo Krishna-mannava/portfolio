@@ -49,7 +49,7 @@ export const experiencesData = [
     description:
       "Automated and Optimized the testing and performance of microservices and front-end code, enhancing efficiency, test coverage, and user experience while significantly reducing manual effort and critical bugs.",
     icon: React.createElement(CgWorkAlt),
-    date: "Aug 2020 - Jun 2021",
+    date: "Aug 2020 - Aug 2021",
   },
   {
     title: "Full Stack Techno Functional Consultant",
