@@ -44,7 +44,7 @@ export const experiencesData = [
   },
   {
     title: "Software Developer",
-    company: "Cognizant",
+    company: "E-Digital Technologies",
     location: "Guntur, IN",
     description:
       "Refactored and modernized legacy applications, optimized web applications, and implemented design patterns to improve performance, scalability, and user engagement, while reducing operational costs, page load times, and environment-related issues. Contributed to the migration to microservices architecture, enhancing system functionality and reducing downtime.",
