@@ -38,27 +38,18 @@ export const experiencesData = [
     company: "Cognizant",
     location: "Hyderabad, IN",
     description:
-      "Developed a secure payment processing module for a major US-based pharmaceutical company as a back-end developer, which processed over 2 million transactions totaling more than $100M, achieving a remarkable uptime of 99.99%.",
+      "Developed a secure payment processing module for a major US-based manufacturing company as a back-end developer, which processed over 2 million transactions totaling more than $100M, achieving a remarkable uptime of 99.99%.",
     icon: React.createElement(CgWorkAlt),
     date: "Aug 2021 - Aug 2022",
   },
   {
-    title: "Junior Software Engineer",
+    title: "Software Developer",
     company: "Cognizant",
-    location: "Bengaluru, IN",
+    location: "Guntur, IN",
     description:
-      "Automated and Optimized the testing and performance of microservices and front-end code, enhancing efficiency, test coverage, and user experience while significantly reducing manual effort and critical bugs.",
+      "Refactored and modernized legacy applications, optimized web applications, and implemented design patterns to improve performance, scalability, and user engagement, while reducing operational costs, page load times, and environment-related issues. Contributed to the migration to microservices architecture, enhancing system functionality and reducing downtime.",
     icon: React.createElement(CgWorkAlt),
-    date: "Aug 2020 - Aug 2021",
-  },
-  {
-    title: "Full Stack Techno Functional Consultant",
-    company: "KAAR Technologies",
-    location: "Chennai, IN",
-    description:
-    "Revamped Customer and Vendor ERP Portals using Angular, achieving a 12% boost in user engagement and a 15% reduction in page load times, decreasing end-user frustration by 11%. Effectively highlighted Sales and Distribution (SD) and Functional Accounting (FI) module functionalities.",
-    icon: React.createElement(CgWorkAlt),
-    date: "March 2020 - July 2020",
+    date: "Jan 2020 - Aug 2021",
   },
 ] as const;
 
