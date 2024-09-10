@@ -43,13 +43,13 @@ export const experiencesData = [
     date: "Aug 2021 - Aug 2022",
   },
   {
-    title: "Software Developer",
+    title: "Full-stack Developer",
     company: "E-Digital Technologies",
     location: "Guntur, IN",
     description:
       "Refactored and modernized legacy applications, optimized web applications, and implemented design patterns to improve performance, scalability, and user engagement, while reducing operational costs, page load times, and environment-related issues. Contributed to the migration to microservices architecture, enhancing system functionality and reducing downtime.",
     icon: React.createElement(CgWorkAlt),
-    date: "Jan 2020 - Aug 2021",
+    date: "Jul 2019 - Jul 2021",
   },
 ] as const;
 
