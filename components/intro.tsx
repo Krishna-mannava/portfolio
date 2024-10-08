@@ -68,7 +68,7 @@ export default function Intro() {
         <span className="font-bold"> Software Developer</span> on a mission to blend 
         technology with passion. Boasting {" "}
         <span className="font-bold">3+ years</span> of experience in {" "}
-        <span className="font-bold">full-stack web development, web automation, automation testinge</span>,
+        <span className="font-bold">full-stack web development, web automation, automation testing</span>,
         I excel in <span className="italic"> crafting robust, scalable full-stack solutions that optimize performance, streamline workflows, and enhance system reliability </span>.
       </motion.h1>
 
