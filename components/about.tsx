@@ -19,9 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-      I am a <span className="font-medium">certified Software Developer, AI Engineer</span> with 3+ years of professional experience in designing, developing, automating, testing web applications and 3+ years of project experience on building end-to-end AI, Machine Learning, Deep Learning web applications.
-      </p>
-      <p className="mb-3">
+      I am a <span className="font-medium">certified Software Developer, AI Engineer</span> with 3+ years of professional experience in designing, developing, automating, testing web applications and 3+ years of project experience in building end-to-end web applications using Python, Java by leveraging Machine Learning and AI.
       I am a recent <span className="font-medium">computer science</span> graduate student with a GPA of 4.0 from the University of South Florida (2022-2024).
       </p>
       <p className="mb-3">
